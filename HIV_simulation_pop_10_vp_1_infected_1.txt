@@ -1,0 +1,173 @@
+Population size: 10
+Vaccinated amount: 1
+Virus name: HIV
+Mortality rate: 0.3
+Reproduction rate: 0.8
+==================================
+1 didn't infect 2 because he/she is already vaccinated.
+1 didn't infect 1 because he/she is already sick.
+1 infects 5
+1 infects 3
+1 infects 9
+1 infects 7
+1 didn't infect 2 because he/she is already vaccinated.
+1 infects 4
+1 infects 10
+1 didn't infect 4 because he/she is already sick.
+1 survived infection
+3 survived infection
+4 survived infection
+5 survived infection
+7 died from infection
+9 survived infection
+10 survived infection
+==================================
+Total Dead: 1
+Total Infected: 6
+Time step 1 ended, beginning 2
+==================================
+1 didn't infect 3 because he/she is already sick.
+1 infects 6
+1 didn't infect 4 because he/she is already sick.
+1 didn't infect 6 because he/she is already sick.
+1 didn't infect 2 because he/she is already vaccinated.
+1 didn't infect 2 because he/she is already vaccinated.
+1 didn't infect 2 because he/she is already vaccinated.
+1 didn't infect 6 because he/she is already sick.
+3 didn't infect 6 because he/she is already sick.
+3 didn't infect 10 because he/she is already sick.
+3 didn't infect 5 because he/she is already sick.
+3 didn't infect 1 because he/she is already sick.
+3 infects 8
+3 didn't infect 2 because he/she is already vaccinated.
+3 didn't infect 9 because he/she is already sick.
+3 didn't infect 5 because he/she is already sick.
+3 didn't infect 10 because he/she is already sick.
+4 didn't infect 6 because he/she is already sick.
+4 didn't infect 10 because he/she is already sick.
+4 didn't infect 4 because he/she is already sick.
+4 didn't infect 2 because he/she is already vaccinated.
+4 didn't infect 1 because he/she is already sick.
+4 didn't infect 4 because he/she is already sick.
+4 didn't infect 5 because he/she is already sick.
+4 didn't infect 2 because he/she is already vaccinated.
+4 didn't infect 4 because he/she is already sick.
+4 didn't infect 2 because he/she is already vaccinated.
+5 didn't infect 5 because he/she is already sick.
+5 didn't infect 8 because he/she is already sick.
+5 didn't infect 6 because he/she is already sick.
+5 didn't infect 3 because he/she is already sick.
+5 didn't infect 6 because he/she is already sick.
+5 didn't infect 6 because he/she is already sick.
+5 didn't infect 4 because he/she is already sick.
+5 didn't infect 5 because he/she is already sick.
+5 didn't infect 2 because he/she is already vaccinated.
+9 didn't infect 10 because he/she is already sick.
+9 didn't infect 3 because he/she is already sick.
+9 didn't infect 9 because he/she is already sick.
+9 didn't infect 4 because he/she is already sick.
+9 didn't infect 3 because he/she is already sick.
+9 didn't infect 8 because he/she is already sick.
+9 didn't infect 5 because he/she is already sick.
+9 didn't infect 9 because he/she is already sick.
+9 didn't infect 4 because he/she is already sick.
+10 didn't infect 6 because he/she is already sick.
+10 didn't infect 1 because he/she is already sick.
+10 didn't infect 4 because he/she is already sick.
+10 didn't infect 1 because he/she is already sick.
+10 didn't infect 6 because he/she is already sick.
+10 didn't infect 5 because he/she is already sick.
+10 didn't infect 2 because he/she is already vaccinated.
+10 didn't infect 4 because he/she is already sick.
+10 didn't infect 10 because he/she is already sick.
+1 survived infection
+3 survived infection
+4 survived infection
+5 survived infection
+6 survived infection
+8 survived infection
+9 died from infection
+10 died from infection
+==================================
+Total Dead: 3
+Total Infected: 6
+Time step 2 ended, beginning 3
+==================================
+1 didn't infect 5 because he/she is already sick.
+1 didn't infect 6 because he/she is already sick.
+1 didn't infect 4 because he/she is already sick.
+1 didn't infect 3 because he/she is already sick.
+3 didn't infect 8 because he/she is already sick.
+3 didn't infect 2 because he/she is already vaccinated.
+3 didn't infect 1 because he/she is already sick.
+3 didn't infect 2 because he/she is already vaccinated.
+3 didn't infect 3 because he/she is already sick.
+3 didn't infect 3 because he/she is already sick.
+3 didn't infect 2 because he/she is already vaccinated.
+4 didn't infect 8 because he/she is already sick.
+4 didn't infect 5 because he/she is already sick.
+4 didn't infect 1 because he/she is already sick.
+4 didn't infect 2 because he/she is already vaccinated.
+5 didn't infect 5 because he/she is already sick.
+5 didn't infect 6 because he/she is already sick.
+5 didn't infect 2 because he/she is already vaccinated.
+5 didn't infect 5 because he/she is already sick.
+5 didn't infect 3 because he/she is already sick.
+5 didn't infect 8 because he/she is already sick.
+5 didn't infect 1 because he/she is already sick.
+5 didn't infect 5 because he/she is already sick.
+6 didn't infect 3 because he/she is already sick.
+6 didn't infect 2 because he/she is already vaccinated.
+6 didn't infect 5 because he/she is already sick.
+6 didn't infect 4 because he/she is already sick.
+6 didn't infect 3 because he/she is already sick.
+6 didn't infect 6 because he/she is already sick.
+6 didn't infect 3 because he/she is already sick.
+8 didn't infect 1 because he/she is already sick.
+8 didn't infect 6 because he/she is already sick.
+8 didn't infect 8 because he/she is already sick.
+8 didn't infect 1 because he/she is already sick.
+8 didn't infect 2 because he/she is already vaccinated.
+8 didn't infect 6 because he/she is already sick.
+8 didn't infect 5 because he/she is already sick.
+1 died from infection
+3 died from infection
+4 survived infection
+5 died from infection
+6 survived infection
+8 survived infection
+==================================
+Total Dead: 6
+Total Infected: 3
+Time step 3 ended, beginning 4
+==================================
+4 didn't infect 8 because he/she is already sick.
+6 didn't infect 4 because he/she is already sick.
+6 didn't infect 4 because he/she is already sick.
+6 didn't infect 6 because he/she is already sick.
+6 didn't infect 8 because he/she is already sick.
+6 didn't infect 8 because he/she is already sick.
+6 didn't infect 2 because he/she is already vaccinated.
+8 didn't infect 4 because he/she is already sick.
+8 didn't infect 4 because he/she is already sick.
+8 didn't infect 2 because he/she is already vaccinated.
+8 didn't infect 6 because he/she is already sick.
+8 didn't infect 4 because he/she is already sick.
+8 didn't infect 4 because he/she is already sick.
+4 died from infection
+6 survived infection
+8 died from infection
+==================================
+Total Dead: 8
+Total Infected: 1
+Time step 4 ended, beginning 5
+==================================
+6 didn't infect 2 because he/she is already vaccinated.
+6 didn't infect 6 because he/she is already sick.
+6 didn't infect 2 because he/she is already vaccinated.
+6 died from infection
+==================================
+Total Dead: 9
+Total Infected: 0
+Time step 5 ended, no more time steps
+==================================
